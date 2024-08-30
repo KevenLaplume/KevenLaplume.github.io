@@ -2,7 +2,6 @@
   --color1: rgb(25, 25, 25);
   --color2: rgb(255, 255, 255);
   --color3: rgb(83, 2, 182);
-  --color4: rgb(214, 54, 54);
 }
 
 * {
@@ -13,7 +12,7 @@
 
 @font-face {
   font-family: "Montserrat";
-  src: url("/Fonts/Montserrat-Medium.ttf");
+  src: url("Fonts/Montserrat-Medium.ttf");
 }
 
 body {
