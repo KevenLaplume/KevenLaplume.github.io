@@ -1,0 +1,4 @@
+je ne veux pas que ce texte sois push sur github quand je fait mes push 
+je veux que sa reste un fichier personel
+
+voir fichier .gitignore pour comprendre comment faire
